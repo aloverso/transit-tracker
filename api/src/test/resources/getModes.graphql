@@ -1,0 +1,6 @@
+query {
+    modes {
+        name
+        counter
+    }
+}

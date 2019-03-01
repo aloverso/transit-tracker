@@ -1,0 +1,13 @@
+type Query {
+    modes: [TransitMode]
+}
+
+type Mutation {
+    addMode(name: String): TransitMode
+}
+
+type TransitMode {
+    name: String
+    counter: Int
+}
+

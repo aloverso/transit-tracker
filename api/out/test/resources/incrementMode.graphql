@@ -1,0 +1,6 @@
+mutation {
+    incrementMode(name: "LIRR") {
+        name
+        counter
+    }
+}

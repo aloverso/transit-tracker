@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: io.rest-assured:spring-mock-mvc:3.0.7">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.rest-assured/spring-mock-mvc/3.0.7/3105e2435a45e6004a90551faad97e74f48bcf1c/spring-mock-mvc-3.0.7.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.rest-assured/spring-mock-mvc/3.0.7/dd048f202f43551fdebc152ac500794a5fe691a3/spring-mock-mvc-3.0.7-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
