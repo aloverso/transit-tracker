@@ -1,6 +1,7 @@
 mutation {
-    incrementMode(name: "LIRR") {
+    incrementMode(id: 1) {
         name
         counter
+        id
     }
 }

@@ -10,13 +10,13 @@ class GetModesUseCaseTest {
     fun `execute() gets transit modes`() {
         val stubModesRepository = StubModesRepository()
         stubModesRepository.stubbedGetModes = listOf(
-                TransitMode("train", 1)
+                TransitMode(name="train", counter=1, id=1)
         )
 
         val getModesUseCase = GetModesUseCase(stubModesRepository)
 
         assertThat(getModesUseCase.execute()).isEqualTo(listOf(
-                TransitMode("train", 1)
+                TransitMode(name="train", counter=1, id=1)
         ))
     }
 }

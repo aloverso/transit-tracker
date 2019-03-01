@@ -43,11 +43,13 @@ class GraphQLProviderTest {
         TestConfig.stubModesRepository.stubbedGetModes = listOf(
                 TransitMode(
                         name = "some name",
-                        counter = 5
+                        counter = 5,
+                        id = 1
                 ),
                 TransitMode(
                         name = "some other name",
-                        counter = 10
+                        counter = 10,
+                        id = 2
                 )
         )
 
@@ -78,13 +80,15 @@ class GraphQLProviderTest {
         TestConfig.stubModesRepository.stubbedGetModes = listOf(
                 TransitMode(
                         name = "LIRR",
-                        counter = 5
+                        counter = 5,
+                        id = 1
                 )
         )
 
         val response = graphQLTestTemplate.postForResource("incrementMode.graphql")
 
         assertThat(TestConfig.stubModesRepository.update_nameCalledWith).isEqualTo("LIRR")
+        assertThat(TestConfig.stubModesRepository.update_counterCalledWith).isEqualTo(6)
 
         assertThat(response.isOk).isTrue()
         assertThat(response.readTree()["data"]["incrementMode"]["name"].asText()).isEqualTo("LIRR")

@@ -8,6 +8,7 @@ const GET_MODES = gql`
         modes {
             name
             counter
+            id
         }
     }
 `
@@ -21,7 +22,7 @@ class TransitModeList extends Component {
           if (loading) return <div>loading</div>
           if (err) return <div>error</div>
 
-          return data.modes.map(mode => <TransitMode key={mode.name} mode={mode} />)
+          return data.modes.map(mode => <TransitMode key={mode.id} mode={mode} />)
         }}
       </Query>
     )

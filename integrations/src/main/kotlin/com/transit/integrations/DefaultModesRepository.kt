@@ -19,4 +19,16 @@ class DefaultModesRepository(
                 counter = 1
         )).toDomain()
     }
+
+    override fun update(mode: TransitMode): TransitMode {
+        return jpaModeRepository.save(JpaTransitMode(
+                id = mode.id,
+                name = mode.name,
+                counter = mode.counter
+        )).toDomain()
+    }
+
+    override fun find(id: Int): TransitMode? {
+        return jpaModeRepository.findById(id).orElse(null).toDomain()
+    }
 }

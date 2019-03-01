@@ -9,13 +9,13 @@ import javax.persistence.GenerationType
 import javax.persistence.Id
 
 @Repository
-interface JpaModeRepository: JpaRepository<JpaTransitMode, Long>
+interface JpaModeRepository: JpaRepository<JpaTransitMode, Int>
 
 @Entity
 class JpaTransitMode(
         @Id
         @GeneratedValue(strategy = GenerationType.AUTO)
-        var id: Long = 0,
+        var id: Int = 0,
 
         val name: String = "",
         val counter: Int = 0
@@ -23,7 +23,8 @@ class JpaTransitMode(
     fun toDomain(): TransitMode {
         return TransitMode(
                 name = name,
-                counter = counter
+                counter = counter,
+                id = id
         )
     }
 }

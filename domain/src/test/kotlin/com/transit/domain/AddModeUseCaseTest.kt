@@ -6,14 +6,14 @@ import org.junit.Test
 
 class AddModeUseCaseTest {
     @Test
-    fun `execute() gets transit modes`() {
+    fun `execute() adds transit modes`() {
         val stubModesRepository = StubModesRepository()
 
         val addModesUseCase = AddModeUseCase(stubModesRepository)
+        val addedMode = addModesUseCase.execute("train")
 
-        assertThat(addModesUseCase.execute("train")).isEqualTo(
-                TransitMode("train", 1)
-        )
+        assertThat(addedMode.name).isEqualTo("train")
+        assertThat(addedMode.counter).isEqualTo(1)
 
         assertThat(stubModesRepository.save_nameCalledWith).isEqualTo("train")
     }

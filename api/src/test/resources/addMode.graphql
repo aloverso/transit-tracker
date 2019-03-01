@@ -2,5 +2,6 @@ mutation {
     addMode(name: "LIRR") {
         name
         counter
+        id
     }
 }

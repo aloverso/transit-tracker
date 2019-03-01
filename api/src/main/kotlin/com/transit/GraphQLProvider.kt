@@ -4,6 +4,7 @@ import com.google.common.io.Resources
 import com.transit.domain.AddModeUseCase
 import com.transit.domain.GetModesUseCase
 import com.transit.domain.TransitMode
+import com.transit.domain.IncrementModeUseCase
 import graphql.GraphQL
 import graphql.schema.DataFetcher
 import graphql.schema.DataFetchingEnvironment
@@ -77,6 +78,9 @@ class DataFetchers {
     @Autowired
     lateinit var addModeUseCase: AddModeUseCase
 
+    @Autowired
+    lateinit var incrementModeUseCase: IncrementModeUseCase
+
     fun modes(): DataFetcher<List<TransitMode>> {
         return toDataFetcher { getModesUseCase.execute() }
     }
@@ -86,7 +90,7 @@ class DataFetchers {
     }
 
     fun incrementMode(): DataFetcher<TransitMode> {
-        return toDataFetcher { env -> addModeUseCase.execute(env!!.getArgument("name")) }
+        return toDataFetcher { env -> incrementModeUseCase.execute(env!!.getArgument("id")) }
     }
 
     private fun <T> toDataFetcher(f: (environment: DataFetchingEnvironment?) -> T) : DataFetcher<T> =

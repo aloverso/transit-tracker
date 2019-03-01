@@ -4,10 +4,12 @@ type Query {
 
 type Mutation {
     addMode(name: String): TransitMode
+    incrementMode(id: Int): TransitMode
 }
 
 type TransitMode {
     name: String
     counter: Int
+    id: Int
 }
 

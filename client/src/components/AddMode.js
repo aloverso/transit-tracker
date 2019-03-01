@@ -7,6 +7,7 @@ const ADD_MODE = gql`
          addMode(name: $name) {
              name
              counter
+             id
          }
      }`
 
@@ -16,6 +17,7 @@ const GET_MODES = gql`
         modes {
             name
             counter
+            id
         }
     }
 `
@@ -45,7 +47,7 @@ class AddMode extends Component {
           update={(store, { data: { addMode } } ) => {
             console.log(addMode)
             const currentStore = store.readQuery({ query: GET_MODES })
-            currentStore.modes.unshift(addMode)
+            currentStore.modes.push(addMode)
             store.writeQuery({
               query: GET_MODES,
               currentStore
