@@ -2,312 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="34627c7e-3fab-4f22-aca9-9e50f211d09e" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.gradle/4.8.1/fileContent/annotation-processors.bin" afterPath="$PROJECT_DIR$/.gradle/4.8.1/fileContent/annotation-processors.bin" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.8.1/fileContent/fileContent.lock" afterPath="$PROJECT_DIR$/.gradle/4.8.1/fileContent/fileContent.lock" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.8.1/fileHashes/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/4.8.1/fileHashes/fileHashes.bin" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.8.1/fileHashes/fileHashes.lock" afterPath="$PROJECT_DIR$/.gradle/4.8.1/fileHashes/fileHashes.lock" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.8.1/fileHashes/resourceHashesCache.bin" afterPath="$PROJECT_DIR$/.gradle/4.8.1/fileHashes/resourceHashesCache.bin" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.8.1/taskHistory/taskHistory.bin" afterPath="$PROJECT_DIR$/.gradle/4.8.1/taskHistory/taskHistory.bin" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.8.1/taskHistory/taskHistory.lock" afterPath="$PROJECT_DIR$/.gradle/4.8.1/taskHistory/taskHistory.lock" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/api/api_test.iml" afterPath="$PROJECT_DIR$/.idea/modules/api/api_test.iml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/api/build/classes/kotlin/main/com/transit/DataFetchers$addMode$1.class" afterPath="$PROJECT_DIR$/api/build/classes/kotlin/main/com/transit/DataFetchers$addMode$1.class" />
-      <change beforePath="$PROJECT_DIR$/api/build/classes/kotlin/main/com/transit/DataFetchers$modes$1.class" afterPath="$PROJECT_DIR$/api/build/classes/kotlin/main/com/transit/DataFetchers$modes$1.class" />
-      <change beforePath="$PROJECT_DIR$/api/build/classes/kotlin/main/com/transit/DataFetchers$toDataFetcher$1.class" afterPath="$PROJECT_DIR$/api/build/classes/kotlin/main/com/transit/DataFetchers$toDataFetcher$1.class" />
-      <change beforePath="$PROJECT_DIR$/api/build/classes/kotlin/main/com/transit/DataFetchers.class" afterPath="$PROJECT_DIR$/api/build/classes/kotlin/main/com/transit/DataFetchers.class" />
-      <change beforePath="$PROJECT_DIR$/api/build/classes/kotlin/main/com/transit/GraphQLProvider.class" afterPath="$PROJECT_DIR$/api/build/classes/kotlin/main/com/transit/GraphQLProvider.class" />
-      <change beforePath="$PROJECT_DIR$/api/build/classes/kotlin/main/com/transit/config/UseCaseConfiguration.class" afterPath="$PROJECT_DIR$/api/build/classes/kotlin/main/com/transit/config/UseCaseConfiguration.class" />
-      <change beforePath="$PROJECT_DIR$/api/build/classes/kotlin/test/com/transit/GraphQLProviderTest.class" afterPath="$PROJECT_DIR$/api/build/classes/kotlin/test/com/transit/GraphQLProviderTest.class" />
-      <change beforePath="$PROJECT_DIR$/api/build/kotlin/api001SNAPSHOTjar-classes.txt" afterPath="$PROJECT_DIR$/api/build/kotlin/api001SNAPSHOTjar-classes.txt" />
-      <change beforePath="$PROJECT_DIR$/api/build/kotlin/compileKotlin/build-history.bin" afterPath="$PROJECT_DIR$/api/build/kotlin/compileKotlin/build-history.bin" />
-      <change beforePath="$PROJECT_DIR$/api/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab" afterPath="$PROJECT_DIR$/api/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab" />
-      <change beforePath="$PROJECT_DIR$/api/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab.values.at" afterPath="$PROJECT_DIR$/api/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab.values.at" />
-      <change beforePath="$PROJECT_DIR$/api/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab" afterPath="$PROJECT_DIR$/api/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab" />
-      <change beforePath="$PROJECT_DIR$/api/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.keystream" afterPath="$PROJECT_DIR$/api/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.keystream" />
-      <change beforePath="$PROJECT_DIR$/api/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.keystream.len" afterPath="$PROJECT_DIR$/api/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.keystream.len" />
-      <change beforePath="$PROJECT_DIR$/api/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.len" afterPath="$PROJECT_DIR$/api/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.len" />
-      <change beforePath="$PROJECT_DIR$/api/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.values.at" afterPath="$PROJECT_DIR$/api/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.values.at" />
-      <change beforePath="$PROJECT_DIR$/api/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab_i" afterPath="$PROJECT_DIR$/api/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab_i" />
-      <change beforePath="$PROJECT_DIR$/api/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab" afterPath="$PROJECT_DIR$/api/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab" />
-      <change beforePath="$PROJECT_DIR$/api/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab.values.at" afterPath="$PROJECT_DIR$/api/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab.values.at" />
-      <change beforePath="$PROJECT_DIR$/api/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab" afterPath="$PROJECT_DIR$/api/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab" />
-      <change beforePath="$PROJECT_DIR$/api/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.values.at" afterPath="$PROJECT_DIR$/api/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.values.at" />
-      <change beforePath="$PROJECT_DIR$/api/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab" afterPath="$PROJECT_DIR$/api/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab" />
-      <change beforePath="$PROJECT_DIR$/api/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.keystream" afterPath="$PROJECT_DIR$/api/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.keystream" />
-      <change beforePath="$PROJECT_DIR$/api/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.keystream.len" afterPath="$PROJECT_DIR$/api/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.keystream.len" />
-      <change beforePath="$PROJECT_DIR$/api/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.len" afterPath="$PROJECT_DIR$/api/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.len" />
-      <change beforePath="$PROJECT_DIR$/api/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.values.at" afterPath="$PROJECT_DIR$/api/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.values.at" />
-      <change beforePath="$PROJECT_DIR$/api/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab_i" afterPath="$PROJECT_DIR$/api/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab_i" />
-      <change beforePath="$PROJECT_DIR$/api/build/kotlin/compileKotlin/last-build.bin" afterPath="$PROJECT_DIR$/api/build/kotlin/compileKotlin/last-build.bin" />
-      <change beforePath="$PROJECT_DIR$/api/build/kotlin/compileTestKotlin/build-history.bin" afterPath="$PROJECT_DIR$/api/build/kotlin/compileTestKotlin/build-history.bin" />
-      <change beforePath="$PROJECT_DIR$/api/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/proto.tab" afterPath="$PROJECT_DIR$/api/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/proto.tab" />
-      <change beforePath="$PROJECT_DIR$/api/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/proto.tab.values.at" afterPath="$PROJECT_DIR$/api/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/proto.tab.values.at" />
-      <change beforePath="$PROJECT_DIR$/api/build/kotlin/compileTestKotlin/caches-jvm/lookups/lookups.tab" afterPath="$PROJECT_DIR$/api/build/kotlin/compileTestKotlin/caches-jvm/lookups/lookups.tab" />
-      <change beforePath="$PROJECT_DIR$/api/build/kotlin/compileTestKotlin/caches-jvm/lookups/lookups.tab.keystream" afterPath="$PROJECT_DIR$/api/build/kotlin/compileTestKotlin/caches-jvm/lookups/lookups.tab.keystream" />
-      <change beforePath="$PROJECT_DIR$/api/build/kotlin/compileTestKotlin/caches-jvm/lookups/lookups.tab.keystream.len" afterPath="$PROJECT_DIR$/api/build/kotlin/compileTestKotlin/caches-jvm/lookups/lookups.tab.keystream.len" />
-      <change beforePath="$PROJECT_DIR$/api/build/kotlin/compileTestKotlin/caches-jvm/lookups/lookups.tab.len" afterPath="$PROJECT_DIR$/api/build/kotlin/compileTestKotlin/caches-jvm/lookups/lookups.tab.len" />
-      <change beforePath="$PROJECT_DIR$/api/build/kotlin/compileTestKotlin/caches-jvm/lookups/lookups.tab.values.at" afterPath="$PROJECT_DIR$/api/build/kotlin/compileTestKotlin/caches-jvm/lookups/lookups.tab.values.at" />
-      <change beforePath="$PROJECT_DIR$/api/build/kotlin/compileTestKotlin/caches-jvm/lookups/lookups.tab_i" afterPath="$PROJECT_DIR$/api/build/kotlin/compileTestKotlin/caches-jvm/lookups/lookups.tab_i" />
-      <change beforePath="$PROJECT_DIR$/api/build/kotlin/compileTestKotlin/last-build.bin" afterPath="$PROJECT_DIR$/api/build/kotlin/compileTestKotlin/last-build.bin" />
-      <change beforePath="$PROJECT_DIR$/api/build/libs/api-0.0.1-SNAPSHOT-stubs.jar" afterPath="$PROJECT_DIR$/api/build/libs/api-0.0.1-SNAPSHOT-stubs.jar" />
-      <change beforePath="$PROJECT_DIR$/api/build/libs/api-0.0.1-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/api/build/libs/api-0.0.1-SNAPSHOT.jar" />
-      <change beforePath="$PROJECT_DIR$/api/build/reports/tests/test/classes/com.transit.GraphQLProviderTest.html" afterPath="$PROJECT_DIR$/api/build/reports/tests/test/classes/com.transit.GraphQLProviderTest.html" />
-      <change beforePath="$PROJECT_DIR$/api/build/reports/tests/test/index.html" afterPath="$PROJECT_DIR$/api/build/reports/tests/test/index.html" />
-      <change beforePath="$PROJECT_DIR$/api/build/reports/tests/test/packages/com.transit.html" afterPath="$PROJECT_DIR$/api/build/reports/tests/test/packages/com.transit.html" />
-      <change beforePath="$PROJECT_DIR$/api/build/resources/main/schema.graphqls" afterPath="$PROJECT_DIR$/api/build/resources/main/schema.graphqls" />
-      <change beforePath="$PROJECT_DIR$/api/build/resources/test/addMode.graphql" afterPath="$PROJECT_DIR$/api/build/resources/test/addMode.graphql" />
-      <change beforePath="$PROJECT_DIR$/api/build/test-results/test/TEST-com.transit.GraphQLProviderTest.xml" afterPath="$PROJECT_DIR$/api/build/test-results/test/TEST-com.transit.GraphQLProviderTest.xml" />
-      <change beforePath="$PROJECT_DIR$/api/build/test-results/test/binary/output.bin" afterPath="$PROJECT_DIR$/api/build/test-results/test/binary/output.bin" />
-      <change beforePath="$PROJECT_DIR$/api/build/test-results/test/binary/output.bin.idx" afterPath="$PROJECT_DIR$/api/build/test-results/test/binary/output.bin.idx" />
-      <change beforePath="$PROJECT_DIR$/api/build/test-results/test/binary/results.bin" afterPath="$PROJECT_DIR$/api/build/test-results/test/binary/results.bin" />
-      <change beforePath="$PROJECT_DIR$/api/src/main/kotlin/com/transit/GraphQLProvider.kt" afterPath="$PROJECT_DIR$/api/src/main/kotlin/com/transit/GraphQLProvider.kt" />
-      <change beforePath="$PROJECT_DIR$/api/src/main/kotlin/com/transit/config/UseCaseConfiguration.kt" afterPath="$PROJECT_DIR$/api/src/main/kotlin/com/transit/config/UseCaseConfiguration.kt" />
-      <change beforePath="$PROJECT_DIR$/api/src/main/resources/schema.graphqls" afterPath="$PROJECT_DIR$/api/src/main/resources/schema.graphqls" />
-      <change beforePath="$PROJECT_DIR$/api/src/test/kotlin/com/transit/GraphQLProviderTest.kt" afterPath="$PROJECT_DIR$/api/src/test/kotlin/com/transit/GraphQLProviderTest.kt" />
-      <change beforePath="$PROJECT_DIR$/api/src/test/resources/addMode.graphql" afterPath="$PROJECT_DIR$/api/src/test/resources/addMode.graphql" />
-      <change beforePath="$PROJECT_DIR$/api/src/test/resources/incrementMode.graphql" afterPath="$PROJECT_DIR$/api/src/test/resources/incrementMode.graphql" />
-      <change beforePath="$PROJECT_DIR$/client/src/components/AddMode.js" afterPath="$PROJECT_DIR$/client/src/components/AddMode.js" />
-      <change beforePath="$PROJECT_DIR$/client/src/components/TransitMode.js" afterPath="$PROJECT_DIR$/client/src/components/TransitMode.js" />
-      <change beforePath="$PROJECT_DIR$/client/src/components/TransitModeList.js" afterPath="$PROJECT_DIR$/client/src/components/TransitModeList.js" />
-      <change beforePath="$PROJECT_DIR$/domain/build/classes/kotlin/main/com/transit/domain/ModesRepository.class" afterPath="$PROJECT_DIR$/domain/build/classes/kotlin/main/com/transit/domain/ModesRepository.class" />
-      <change beforePath="$PROJECT_DIR$/domain/build/classes/kotlin/main/com/transit/domain/TransitMode.class" afterPath="$PROJECT_DIR$/domain/build/classes/kotlin/main/com/transit/domain/TransitMode.class" />
-      <change beforePath="$PROJECT_DIR$/domain/build/classes/kotlin/main/com/transit/domain/stubs/StubModesRepository.class" afterPath="$PROJECT_DIR$/domain/build/classes/kotlin/main/com/transit/domain/stubs/StubModesRepository.class" />
-      <change beforePath="$PROJECT_DIR$/domain/build/classes/kotlin/test/META-INF/domain.kotlin_module" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/domain/build/classes/kotlin/test/com/transit/domain/AddModeUseCaseTest.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/domain/build/classes/kotlin/test/com/transit/domain/GetModesUseCaseTest.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/domain/build/kotlin/compileKotlin/build-history.bin" afterPath="$PROJECT_DIR$/domain/build/kotlin/compileKotlin/build-history.bin" />
-      <change beforePath="$PROJECT_DIR$/domain/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab" afterPath="$PROJECT_DIR$/domain/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab" />
-      <change beforePath="$PROJECT_DIR$/domain/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab.keystream" afterPath="$PROJECT_DIR$/domain/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab.keystream" />
-      <change beforePath="$PROJECT_DIR$/domain/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab.keystream.len" afterPath="$PROJECT_DIR$/domain/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab.keystream.len" />
-      <change beforePath="$PROJECT_DIR$/domain/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab.len" afterPath="$PROJECT_DIR$/domain/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab.len" />
-      <change beforePath="$PROJECT_DIR$/domain/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab.values.at" afterPath="$PROJECT_DIR$/domain/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab.values.at" />
-      <change beforePath="$PROJECT_DIR$/domain/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab_i" afterPath="$PROJECT_DIR$/domain/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab_i" />
-      <change beforePath="$PROJECT_DIR$/domain/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab" afterPath="$PROJECT_DIR$/domain/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab" />
-      <change beforePath="$PROJECT_DIR$/domain/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.keystream" afterPath="$PROJECT_DIR$/domain/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.keystream" />
-      <change beforePath="$PROJECT_DIR$/domain/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.keystream.len" afterPath="$PROJECT_DIR$/domain/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.keystream.len" />
-      <change beforePath="$PROJECT_DIR$/domain/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.len" afterPath="$PROJECT_DIR$/domain/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.len" />
-      <change beforePath="$PROJECT_DIR$/domain/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.values.at" afterPath="$PROJECT_DIR$/domain/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.values.at" />
-      <change beforePath="$PROJECT_DIR$/domain/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab_i" afterPath="$PROJECT_DIR$/domain/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab_i" />
-      <change beforePath="$PROJECT_DIR$/domain/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab" afterPath="$PROJECT_DIR$/domain/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab" />
-      <change beforePath="$PROJECT_DIR$/domain/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.keystream" afterPath="$PROJECT_DIR$/domain/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.keystream" />
-      <change beforePath="$PROJECT_DIR$/domain/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.keystream.len" afterPath="$PROJECT_DIR$/domain/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.keystream.len" />
-      <change beforePath="$PROJECT_DIR$/domain/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.len" afterPath="$PROJECT_DIR$/domain/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.len" />
-      <change beforePath="$PROJECT_DIR$/domain/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.values.at" afterPath="$PROJECT_DIR$/domain/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.values.at" />
-      <change beforePath="$PROJECT_DIR$/domain/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab_i" afterPath="$PROJECT_DIR$/domain/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab_i" />
-      <change beforePath="$PROJECT_DIR$/domain/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab" afterPath="$PROJECT_DIR$/domain/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab" />
-      <change beforePath="$PROJECT_DIR$/domain/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab.keystream" afterPath="$PROJECT_DIR$/domain/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab.keystream" />
-      <change beforePath="$PROJECT_DIR$/domain/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab.keystream.len" afterPath="$PROJECT_DIR$/domain/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab.keystream.len" />
-      <change beforePath="$PROJECT_DIR$/domain/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab.len" afterPath="$PROJECT_DIR$/domain/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab.len" />
-      <change beforePath="$PROJECT_DIR$/domain/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab.values.at" afterPath="$PROJECT_DIR$/domain/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab.values.at" />
-      <change beforePath="$PROJECT_DIR$/domain/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab_i" afterPath="$PROJECT_DIR$/domain/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab_i" />
-      <change beforePath="$PROJECT_DIR$/domain/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab" afterPath="$PROJECT_DIR$/domain/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab" />
-      <change beforePath="$PROJECT_DIR$/domain/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.keystream" afterPath="$PROJECT_DIR$/domain/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.keystream" />
-      <change beforePath="$PROJECT_DIR$/domain/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.keystream.len" afterPath="$PROJECT_DIR$/domain/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.keystream.len" />
-      <change beforePath="$PROJECT_DIR$/domain/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.len" afterPath="$PROJECT_DIR$/domain/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.len" />
-      <change beforePath="$PROJECT_DIR$/domain/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.values.at" afterPath="$PROJECT_DIR$/domain/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.values.at" />
-      <change beforePath="$PROJECT_DIR$/domain/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab_i" afterPath="$PROJECT_DIR$/domain/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab_i" />
-      <change beforePath="$PROJECT_DIR$/domain/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/supertypes.tab" afterPath="$PROJECT_DIR$/domain/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/supertypes.tab" />
-      <change beforePath="$PROJECT_DIR$/domain/build/kotlin/compileKotlin/caches-jvm/lookups/counters.tab" afterPath="$PROJECT_DIR$/domain/build/kotlin/compileKotlin/caches-jvm/lookups/counters.tab" />
-      <change beforePath="$PROJECT_DIR$/domain/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab" afterPath="$PROJECT_DIR$/domain/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab" />
-      <change beforePath="$PROJECT_DIR$/domain/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab.keystream" afterPath="$PROJECT_DIR$/domain/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab.keystream" />
-      <change beforePath="$PROJECT_DIR$/domain/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab.keystream.len" afterPath="$PROJECT_DIR$/domain/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab.keystream.len" />
-      <change beforePath="$PROJECT_DIR$/domain/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab.len" afterPath="$PROJECT_DIR$/domain/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab.len" />
-      <change beforePath="$PROJECT_DIR$/domain/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab.values.at" afterPath="$PROJECT_DIR$/domain/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab.values.at" />
-      <change beforePath="$PROJECT_DIR$/domain/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab_i" afterPath="$PROJECT_DIR$/domain/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab_i" />
-      <change beforePath="$PROJECT_DIR$/domain/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab" afterPath="$PROJECT_DIR$/domain/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab" />
-      <change beforePath="$PROJECT_DIR$/domain/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab.keystream" afterPath="$PROJECT_DIR$/domain/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab.keystream" />
-      <change beforePath="$PROJECT_DIR$/domain/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab.keystream.len" afterPath="$PROJECT_DIR$/domain/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab.keystream.len" />
-      <change beforePath="$PROJECT_DIR$/domain/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab.len" afterPath="$PROJECT_DIR$/domain/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab.len" />
-      <change beforePath="$PROJECT_DIR$/domain/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab.values.at" afterPath="$PROJECT_DIR$/domain/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab.values.at" />
-      <change beforePath="$PROJECT_DIR$/domain/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab_i" afterPath="$PROJECT_DIR$/domain/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab_i" />
-      <change beforePath="$PROJECT_DIR$/domain/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab" afterPath="$PROJECT_DIR$/domain/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab" />
-      <change beforePath="$PROJECT_DIR$/domain/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.keystream" afterPath="$PROJECT_DIR$/domain/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.keystream" />
-      <change beforePath="$PROJECT_DIR$/domain/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.keystream.len" afterPath="$PROJECT_DIR$/domain/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.keystream.len" />
-      <change beforePath="$PROJECT_DIR$/domain/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.len" afterPath="$PROJECT_DIR$/domain/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.len" />
-      <change beforePath="$PROJECT_DIR$/domain/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.values.at" afterPath="$PROJECT_DIR$/domain/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.values.at" />
-      <change beforePath="$PROJECT_DIR$/domain/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab_i" afterPath="$PROJECT_DIR$/domain/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab_i" />
-      <change beforePath="$PROJECT_DIR$/domain/build/kotlin/compileKotlin/last-build.bin" afterPath="$PROJECT_DIR$/domain/build/kotlin/compileKotlin/last-build.bin" />
-      <change beforePath="$PROJECT_DIR$/domain/build/kotlin/compileTestKotlin/build-history.bin" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/domain/build/kotlin/compileTestKotlin/caches-jvm/inputs/source-to-output.tab" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/domain/build/kotlin/compileTestKotlin/caches-jvm/inputs/source-to-output.tab.keystream" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/domain/build/kotlin/compileTestKotlin/caches-jvm/inputs/source-to-output.tab.keystream.len" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/domain/build/kotlin/compileTestKotlin/caches-jvm/inputs/source-to-output.tab.len" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/domain/build/kotlin/compileTestKotlin/caches-jvm/inputs/source-to-output.tab.values.at" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/domain/build/kotlin/compileTestKotlin/caches-jvm/inputs/source-to-output.tab_i" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/domain/build/kotlin/compileTestKotlin/caches-jvm/inputs/source-to-output.tab_i.len" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/domain/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/domain/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.keystream" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/domain/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.keystream.len" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/domain/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.len" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/domain/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.values.at" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/domain/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab_i" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/domain/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab_i.len" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/domain/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/domain/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.keystream" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/domain/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.keystream.len" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/domain/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.len" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/domain/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.values.at" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/domain/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab_i" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/domain/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab_i.len" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/domain/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/proto.tab" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/domain/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/proto.tab.keystream" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/domain/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/proto.tab.keystream.len" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/domain/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/proto.tab.len" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/domain/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/proto.tab.values.at" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/domain/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/proto.tab_i" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/domain/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/proto.tab_i.len" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/domain/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/domain/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.keystream" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/domain/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.keystream.len" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/domain/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.len" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/domain/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.values.at" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/domain/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab_i" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/domain/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab_i.len" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/domain/build/kotlin/compileTestKotlin/caches-jvm/lookups/counters.tab" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/domain/build/kotlin/compileTestKotlin/caches-jvm/lookups/file-to-id.tab" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/domain/build/kotlin/compileTestKotlin/caches-jvm/lookups/file-to-id.tab.keystream" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/domain/build/kotlin/compileTestKotlin/caches-jvm/lookups/file-to-id.tab.keystream.len" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/domain/build/kotlin/compileTestKotlin/caches-jvm/lookups/file-to-id.tab.len" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/domain/build/kotlin/compileTestKotlin/caches-jvm/lookups/file-to-id.tab.values.at" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/domain/build/kotlin/compileTestKotlin/caches-jvm/lookups/file-to-id.tab_i" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/domain/build/kotlin/compileTestKotlin/caches-jvm/lookups/file-to-id.tab_i.len" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/domain/build/kotlin/compileTestKotlin/caches-jvm/lookups/id-to-file.tab" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/domain/build/kotlin/compileTestKotlin/caches-jvm/lookups/id-to-file.tab.keystream" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/domain/build/kotlin/compileTestKotlin/caches-jvm/lookups/id-to-file.tab.keystream.len" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/domain/build/kotlin/compileTestKotlin/caches-jvm/lookups/id-to-file.tab.len" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/domain/build/kotlin/compileTestKotlin/caches-jvm/lookups/id-to-file.tab.values.at" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/domain/build/kotlin/compileTestKotlin/caches-jvm/lookups/id-to-file.tab_i" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/domain/build/kotlin/compileTestKotlin/caches-jvm/lookups/id-to-file.tab_i.len" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/domain/build/kotlin/compileTestKotlin/caches-jvm/lookups/lookups.tab" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/domain/build/kotlin/compileTestKotlin/caches-jvm/lookups/lookups.tab.keystream" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/domain/build/kotlin/compileTestKotlin/caches-jvm/lookups/lookups.tab.keystream.len" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/domain/build/kotlin/compileTestKotlin/caches-jvm/lookups/lookups.tab.len" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/domain/build/kotlin/compileTestKotlin/caches-jvm/lookups/lookups.tab.values.at" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/domain/build/kotlin/compileTestKotlin/caches-jvm/lookups/lookups.tab_i" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/domain/build/kotlin/compileTestKotlin/caches-jvm/lookups/lookups.tab_i.len" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/domain/build/kotlin/compileTestKotlin/data-container-format-version.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/domain/build/kotlin/compileTestKotlin/format-version.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/domain/build/kotlin/compileTestKotlin/gradle-format-version.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/domain/build/kotlin/compileTestKotlin/last-build.bin" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/domain/build/kotlin/domainjar-classes.txt" afterPath="$PROJECT_DIR$/domain/build/kotlin/domainjar-classes.txt" />
-      <change beforePath="$PROJECT_DIR$/domain/build/libs/domain.jar" afterPath="$PROJECT_DIR$/domain/build/libs/domain.jar" />
-      <change beforePath="$PROJECT_DIR$/domain/build/reports/tests/test/classes/com.transit.domain.AddModeUseCaseTest.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/domain/build/reports/tests/test/classes/com.transit.domain.GetModesUseCaseTest.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/domain/build/reports/tests/test/css/base-style.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/domain/build/reports/tests/test/css/style.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/domain/build/reports/tests/test/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/domain/build/reports/tests/test/js/report.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/domain/build/reports/tests/test/packages/com.transit.domain.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/domain/build/test-results/test/TEST-com.transit.domain.AddModeUseCaseTest.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/domain/build/test-results/test/TEST-com.transit.domain.GetModesUseCaseTest.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/domain/build/test-results/test/binary/output.bin" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/domain/build/test-results/test/binary/output.bin.idx" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/domain/build/test-results/test/binary/results.bin" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/domain/src/main/kotlin/com/transit/domain/ModesRepository.kt" afterPath="$PROJECT_DIR$/domain/src/main/kotlin/com/transit/domain/ModesRepository.kt" />
-      <change beforePath="$PROJECT_DIR$/domain/src/main/kotlin/com/transit/domain/TransitMode.kt" afterPath="$PROJECT_DIR$/domain/src/main/kotlin/com/transit/domain/TransitMode.kt" />
-      <change beforePath="$PROJECT_DIR$/domain/src/main/kotlin/com/transit/domain/stubs/StubModesRepository.kt" afterPath="$PROJECT_DIR$/domain/src/main/kotlin/com/transit/domain/stubs/StubModesRepository.kt" />
-      <change beforePath="$PROJECT_DIR$/domain/src/test/kotlin/com/transit/domain/AddModeUseCaseTest.kt" afterPath="$PROJECT_DIR$/domain/src/test/kotlin/com/transit/domain/AddModeUseCaseTest.kt" />
-      <change beforePath="$PROJECT_DIR$/domain/src/test/kotlin/com/transit/domain/GetModesUseCaseTest.kt" afterPath="$PROJECT_DIR$/domain/src/test/kotlin/com/transit/domain/GetModesUseCaseTest.kt" />
-      <change beforePath="$PROJECT_DIR$/integrations/build/classes/kotlin/main/com/transit/integrations/DefaultModesRepository.class" afterPath="$PROJECT_DIR$/integrations/build/classes/kotlin/main/com/transit/integrations/DefaultModesRepository.class" />
-      <change beforePath="$PROJECT_DIR$/integrations/build/classes/kotlin/main/com/transit/integrations/JpaModeRepository.class" afterPath="$PROJECT_DIR$/integrations/build/classes/kotlin/main/com/transit/integrations/JpaModeRepository.class" />
-      <change beforePath="$PROJECT_DIR$/integrations/build/classes/kotlin/main/com/transit/integrations/JpaTransitMode.class" afterPath="$PROJECT_DIR$/integrations/build/classes/kotlin/main/com/transit/integrations/JpaTransitMode.class" />
-      <change beforePath="$PROJECT_DIR$/integrations/build/classes/kotlin/test/META-INF/integrations.kotlin_module" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/integrations/build/classes/kotlin/test/com/transit/integrations/IntegrationTest.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/integrations/build/classes/kotlin/test/com/transit/integrations/TestApplication.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/integrations/build/classes/kotlin/test/com/transit/integrations/TestApplicationKt.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/integrations/build/kotlin/compileKotlin/build-history.bin" afterPath="$PROJECT_DIR$/integrations/build/kotlin/compileKotlin/build-history.bin" />
-      <change beforePath="$PROJECT_DIR$/integrations/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab" afterPath="$PROJECT_DIR$/integrations/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab" />
-      <change beforePath="$PROJECT_DIR$/integrations/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab.values.at" afterPath="$PROJECT_DIR$/integrations/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab.values.at" />
-      <change beforePath="$PROJECT_DIR$/integrations/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab" afterPath="$PROJECT_DIR$/integrations/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab" />
-      <change beforePath="$PROJECT_DIR$/integrations/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.keystream" afterPath="$PROJECT_DIR$/integrations/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.keystream" />
-      <change beforePath="$PROJECT_DIR$/integrations/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.keystream.len" afterPath="$PROJECT_DIR$/integrations/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.keystream.len" />
-      <change beforePath="$PROJECT_DIR$/integrations/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.len" afterPath="$PROJECT_DIR$/integrations/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.len" />
-      <change beforePath="$PROJECT_DIR$/integrations/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.values.at" afterPath="$PROJECT_DIR$/integrations/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.values.at" />
-      <change beforePath="$PROJECT_DIR$/integrations/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab_i" afterPath="$PROJECT_DIR$/integrations/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab_i" />
-      <change beforePath="$PROJECT_DIR$/integrations/build/kotlin/compileKotlin/last-build.bin" afterPath="$PROJECT_DIR$/integrations/build/kotlin/compileKotlin/last-build.bin" />
-      <change beforePath="$PROJECT_DIR$/integrations/build/kotlin/compileTestKotlin/build-history.bin" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/integrations/build/kotlin/compileTestKotlin/caches-jvm/inputs/source-to-output.tab" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/integrations/build/kotlin/compileTestKotlin/caches-jvm/inputs/source-to-output.tab.keystream" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/integrations/build/kotlin/compileTestKotlin/caches-jvm/inputs/source-to-output.tab.keystream.len" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/integrations/build/kotlin/compileTestKotlin/caches-jvm/inputs/source-to-output.tab.len" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/integrations/build/kotlin/compileTestKotlin/caches-jvm/inputs/source-to-output.tab.values.at" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/integrations/build/kotlin/compileTestKotlin/caches-jvm/inputs/source-to-output.tab_i" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/integrations/build/kotlin/compileTestKotlin/caches-jvm/inputs/source-to-output.tab_i.len" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/integrations/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/integrations/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.keystream" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/integrations/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.keystream.len" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/integrations/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.len" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/integrations/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.values.at" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/integrations/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab_i" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/integrations/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab_i.len" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/integrations/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/integrations/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.keystream" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/integrations/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.keystream.len" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/integrations/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.len" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/integrations/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.values.at" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/integrations/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab_i" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/integrations/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab_i.len" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/integrations/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/package-parts.tab" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/integrations/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/package-parts.tab.keystream" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/integrations/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/package-parts.tab.keystream.len" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/integrations/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/package-parts.tab.len" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/integrations/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/package-parts.tab.values.at" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/integrations/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/package-parts.tab_i" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/integrations/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/package-parts.tab_i.len" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/integrations/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/proto.tab" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/integrations/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/proto.tab.keystream" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/integrations/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/proto.tab.keystream.len" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/integrations/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/proto.tab.len" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/integrations/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/proto.tab.values.at" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/integrations/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/proto.tab_i" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/integrations/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/proto.tab_i.len" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/integrations/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/integrations/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.keystream" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/integrations/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.keystream.len" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/integrations/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.len" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/integrations/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.values.at" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/integrations/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab_i" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/integrations/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab_i.len" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/integrations/build/kotlin/compileTestKotlin/caches-jvm/lookups/counters.tab" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/integrations/build/kotlin/compileTestKotlin/caches-jvm/lookups/file-to-id.tab" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/integrations/build/kotlin/compileTestKotlin/caches-jvm/lookups/file-to-id.tab.keystream" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/integrations/build/kotlin/compileTestKotlin/caches-jvm/lookups/file-to-id.tab.keystream.len" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/integrations/build/kotlin/compileTestKotlin/caches-jvm/lookups/file-to-id.tab.len" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/integrations/build/kotlin/compileTestKotlin/caches-jvm/lookups/file-to-id.tab.values.at" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/integrations/build/kotlin/compileTestKotlin/caches-jvm/lookups/file-to-id.tab_i" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/integrations/build/kotlin/compileTestKotlin/caches-jvm/lookups/file-to-id.tab_i.len" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/integrations/build/kotlin/compileTestKotlin/caches-jvm/lookups/id-to-file.tab" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/integrations/build/kotlin/compileTestKotlin/caches-jvm/lookups/id-to-file.tab.keystream" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/integrations/build/kotlin/compileTestKotlin/caches-jvm/lookups/id-to-file.tab.keystream.len" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/integrations/build/kotlin/compileTestKotlin/caches-jvm/lookups/id-to-file.tab.len" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/integrations/build/kotlin/compileTestKotlin/caches-jvm/lookups/id-to-file.tab.values.at" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/integrations/build/kotlin/compileTestKotlin/caches-jvm/lookups/id-to-file.tab_i" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/integrations/build/kotlin/compileTestKotlin/caches-jvm/lookups/id-to-file.tab_i.len" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/integrations/build/kotlin/compileTestKotlin/caches-jvm/lookups/lookups.tab" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/integrations/build/kotlin/compileTestKotlin/caches-jvm/lookups/lookups.tab.keystream" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/integrations/build/kotlin/compileTestKotlin/caches-jvm/lookups/lookups.tab.keystream.len" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/integrations/build/kotlin/compileTestKotlin/caches-jvm/lookups/lookups.tab.len" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/integrations/build/kotlin/compileTestKotlin/caches-jvm/lookups/lookups.tab.values.at" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/integrations/build/kotlin/compileTestKotlin/caches-jvm/lookups/lookups.tab_i" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/integrations/build/kotlin/compileTestKotlin/caches-jvm/lookups/lookups.tab_i.len" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/integrations/build/kotlin/compileTestKotlin/data-container-format-version.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/integrations/build/kotlin/compileTestKotlin/format-version.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/integrations/build/kotlin/compileTestKotlin/gradle-format-version.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/integrations/build/kotlin/compileTestKotlin/last-build.bin" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/integrations/build/libs/integrations.jar" afterPath="$PROJECT_DIR$/integrations/build/libs/integrations.jar" />
-      <change beforePath="$PROJECT_DIR$/integrations/build/reports/tests/test/classes/com.transit.integrations.IntegrationTest.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/integrations/build/reports/tests/test/css/base-style.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/integrations/build/reports/tests/test/css/style.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/integrations/build/reports/tests/test/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/integrations/build/reports/tests/test/js/report.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/integrations/build/reports/tests/test/packages/com.transit.integrations.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/integrations/build/test-results/test/TEST-com.transit.integrations.IntegrationTest.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/integrations/build/test-results/test/binary/output.bin" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/integrations/build/test-results/test/binary/output.bin.idx" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/integrations/build/test-results/test/binary/results.bin" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/integrations/src/main/kotlin/com/transit/integrations/DefaultModesRepository.kt" afterPath="$PROJECT_DIR$/integrations/src/main/kotlin/com/transit/integrations/DefaultModesRepository.kt" />
-      <change beforePath="$PROJECT_DIR$/integrations/src/main/kotlin/com/transit/integrations/JpaModeRepository.kt" afterPath="$PROJECT_DIR$/integrations/src/main/kotlin/com/transit/integrations/JpaModeRepository.kt" />
-      <change beforePath="$PROJECT_DIR$/services/build/libs/services.jar" afterPath="$PROJECT_DIR$/services/build/libs/services.jar" />
+      <change beforePath="$PROJECT_DIR$/api/src/test/resources/getModes.graphql" afterPath="$PROJECT_DIR$/api/src/test/resources/getModes.graphql" />
     </list>
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -342,6 +45,9 @@
           <activation />
         </task>
         <task path="$PROJECT_DIR$/integrations">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/core">
           <activation />
         </task>
         <projects_view>
@@ -414,91 +120,58 @@
     </system>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="TransitMode.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/client/src/components/TransitMode.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-              <folding>
-                <marker date="1551468309000" expanded="true" signature="142:282" ph="mutation...{&#10;        incrementMode(id: $id) {&#10;            name&#10;            counter&#10;            id&#10;        }&#10;    }" />
-                <marker date="1551468309000" expanded="true" signature="151:168" ph="incrementModeFunc...incrementModeFunc" />
-                <marker date="1551468309000" expanded="true" signature="168:179" ph="(...)" />
-                <marker date="1551468309000" expanded="true" signature="174:177" ph="Int...Int" />
-                <marker date="1551468309000" expanded="true" signature="180:282" ph="{...}" />
-                <marker date="1551468309000" expanded="true" signature="190:203" ph="incrementMode...incrementMode" />
-                <marker date="1551468309000" expanded="true" signature="190:276" ph="incrementMode...{&#10;            name&#10;            counter&#10;            id&#10;        }" />
-                <marker date="1551468309000" expanded="true" signature="203:212" ph="(...)" />
-                <marker date="1551468309000" expanded="true" signature="204:206" ph="id...id" />
-                <marker date="1551468309000" expanded="true" signature="213:276" ph="{...}" />
-                <marker date="1551468309000" expanded="true" signature="227:231" ph="name...name" />
-                <marker date="1551468309000" expanded="true" signature="244:251" ph="counter...counter" />
-                <marker date="1551468309000" expanded="true" signature="264:266" ph="id...id" />
-                <marker date="1551468309000" expanded="true" signature="312:403" ph="query...{&#10;        modes {&#10;            name&#10;            counter&#10;            id&#10;        }&#10;    }" />
-                <marker date="1551468309000" expanded="true" signature="318:403" ph="{...}" />
-                <marker date="1551468309000" expanded="true" signature="328:333" ph="modes...modes" />
-                <marker date="1551468309000" expanded="true" signature="328:397" ph="modes...{&#10;            name&#10;            counter&#10;            id&#10;        }" />
-                <marker date="1551468309000" expanded="true" signature="334:397" ph="{...}" />
-                <marker date="1551468309000" expanded="true" signature="348:352" ph="name...name" />
-                <marker date="1551468309000" expanded="true" signature="365:372" ph="counter...counter" />
-                <marker date="1551468309000" expanded="true" signature="385:387" ph="id...id" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TransitModeList.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/client/src/components/TransitModeList.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="437">
-              <caret line="26" column="14" lean-forward="true" selection-start-line="26" selection-start-column="14" selection-end-line="26" selection-end-column="14" />
-              <folding>
-                <marker date="1551467236000" expanded="true" signature="178:269" ph="query...{&#10;        modes {&#10;            name&#10;            counter&#10;        }&#10;    }" />
-                <marker date="1551467236000" expanded="true" signature="184:269" ph="{...}" />
-                <marker date="1551467236000" expanded="true" signature="194:199" ph="modes...modes" />
-                <marker date="1551467236000" expanded="true" signature="194:263" ph="modes...{&#10;            name&#10;            counter&#10;        }" />
-                <marker date="1551467236000" expanded="true" signature="200:263" ph="{...}" />
-                <marker date="1551467236000" expanded="true" signature="214:218" ph="name...name" />
-                <marker date="1551467236000" expanded="true" signature="231:238" ph="counter...counter" />
-                <marker date="1551467236000" expanded="true" signature="251:253" ph="id...id" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AddMode.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/client/src/components/AddMode.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="726">
-              <caret line="52" column="26" lean-forward="true" selection-start-line="52" selection-start-column="26" selection-end-line="52" selection-end-column="26" />
-              <folding>
-                <marker date="1551468249000" expanded="true" signature="139:282" ph="mutation...{&#10;         addMode(name: $name) {&#10;             name&#10;             counter&#10;         }&#10;     }" />
-                <marker date="1551468249000" expanded="true" signature="148:159" ph="addModeFunc...addModeFunc" />
-                <marker date="1551468249000" expanded="true" signature="159:175" ph="(...)" />
-                <marker date="1551468249000" expanded="true" signature="167:173" ph="String...String" />
-                <marker date="1551468249000" expanded="true" signature="176:282" ph="{...}" />
-                <marker date="1551468249000" expanded="true" signature="187:194" ph="addMode...addMode" />
-                <marker date="1551468249000" expanded="true" signature="187:275" ph="addMode...{&#10;             name&#10;             counter&#10;         }" />
-                <marker date="1551468249000" expanded="true" signature="194:207" ph="(...)" />
-                <marker date="1551468249000" expanded="true" signature="195:199" ph="name...name" />
-                <marker date="1551468249000" expanded="true" signature="208:275" ph="{...}" />
-                <marker date="1551468249000" expanded="true" signature="223:227" ph="name...name" />
-                <marker date="1551468249000" expanded="true" signature="241:248" ph="counter...counter" />
-                <marker date="1551468249000" expanded="true" signature="262:264" ph="id...id" />
-                <marker date="1551468249000" expanded="true" signature="313:404" ph="query...{&#10;        modes {&#10;            name&#10;            counter&#10;        }&#10;    }" />
-                <marker date="1551468249000" expanded="true" signature="319:404" ph="{...}" />
-                <marker date="1551468249000" expanded="true" signature="329:334" ph="modes...modes" />
-                <marker date="1551468249000" expanded="true" signature="329:398" ph="modes...{&#10;            name&#10;            counter&#10;        }" />
-                <marker date="1551468249000" expanded="true" signature="335:398" ph="{...}" />
-                <marker date="1551468249000" expanded="true" signature="349:353" ph="name...name" />
-                <marker date="1551468249000" expanded="true" signature="366:373" ph="counter...counter" />
-                <marker date="1551468249000" expanded="true" signature="386:388" ph="id...id" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <splitter split-orientation="horizontal" split-proportion="0.5">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+          <file leaf-file-name="Game.kt" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/services/src/main/kotlin/com/transit/services/Game.kt">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="228">
+                  <caret line="12" column="30" lean-forward="false" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="30" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="scratch.txt" pinned="false" current-in-tab="false">
+            <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.txt">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="19">
+                  <caret line="1" column="2" lean-forward="false" selection-start-line="1" selection-start-column="2" selection-end-line="1" selection-end-column="2" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf>
+          <file leaf-file-name="GameTest.kt" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/services/src/test/kotlin/com/transit/services/GameTest.kt">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="455">
+                  <caret line="43" column="0" lean-forward="false" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
+                  <folding>
+                    <element signature="e#30#101#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/.gitignore">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="19">
+                  <caret line="1" column="8" lean-forward="false" selection-start-line="1" selection-start-column="8" selection-end-line="1" selection-end-column="8" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -1436,7 +1109,7 @@
     </option>
     <option name="modificationStamps">
       <map>
-        <entry key="$PROJECT_DIR$" value="12405260632000" />
+        <entry key="$PROJECT_DIR$" value="12408686749000" />
         <entry key="$PROJECT_DIR$/api/build.gradle" value="2200995046" />
         <entry key="$PROJECT_DIR$/build.gradle" value="3039588160" />
         <entry key="$PROJECT_DIR$/domain/build.gradle" value="624289762" />
@@ -1865,10 +1538,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/services/src/main/kotlin/com/pinelist/services/DefaultListService.kt" />
-        <option value="$PROJECT_DIR$/api/src/main/kotlin/com/pinelist/config/MessageConverterConfiguration.kt" />
-        <option value="$PROJECT_DIR$/api/src/main/kotlin/com/pinelist/config/CorsConfiguration.kt" />
-        <option value="$PROJECT_DIR$/api/src/test/resources/contracts/shouldAddLists.groovy" />
         <option value="$PROJECT_DIR$/integrations/src/main/kotlin/com/pinelist/integrations/JpaListRepository.kt" />
         <option value="$PROJECT_DIR$/api/src/main/kotlin/com/pinelist/config/GraphQLProvider.kt" />
         <option value="$PROJECT_DIR$/api/src/main/kotlin/com/pinelist/controllers/ListController.kt" />
@@ -1904,8 +1573,6 @@
         <option value="$PROJECT_DIR$/api/src/test/resources/incrementMode.graphql" />
         <option value="$PROJECT_DIR$/api/src/test/resources/addMode.graphql" />
         <option value="$PROJECT_DIR$/api/src/test/kotlin/com/transit/GraphQLProviderTest.kt" />
-        <option value="$PROJECT_DIR$/api/src/test/resources/getModes.graphql" />
-        <option value="$PROJECT_DIR$/api/src/main/kotlin/com/transit/GraphQLProvider.kt" />
         <option value="$PROJECT_DIR$/client/src/components/TransitModeList.js" />
         <option value="$PROJECT_DIR$/api/src/main/resources/schema.graphqls" />
         <option value="$PROJECT_DIR$/domain/src/main/kotlin/com/transit/domain/TransitMode.kt" />
@@ -1916,6 +1583,12 @@
         <option value="$PROJECT_DIR$/integrations/src/main/kotlin/com/transit/integrations/JpaModeRepository.kt" />
         <option value="$PROJECT_DIR$/client/src/components/AddMode.js" />
         <option value="$PROJECT_DIR$/client/src/components/TransitMode.js" />
+        <option value="$PROJECT_DIR$/api/src/test/resources/getModes.graphql" />
+        <option value="$PROJECT_DIR$/api/src/main/kotlin/com/transit/GraphQLProvider.kt" />
+        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch.txt" />
+        <option value="$PROJECT_DIR$/services/src/test/kotlin/com/transit/services/GameTest.kt" />
+        <option value="$PROJECT_DIR$/services/src/main/kotlin/com/transit/services/Game.kt" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -1935,10 +1608,9 @@
     <handled-path value="$PROJECT_DIR$/client/node_modules" />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1440" />
-    <option name="y" value="-298" />
-    <option name="width" value="2560" />
-    <option name="height" value="1417" />
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="873" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -1956,8 +1628,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -2003,127 +1673,54 @@
             <path>
               <item name="transit-tracker" type="b2602c69:ProjectViewProjectNode" />
               <item name="transit-tracker" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="api" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="transit-tracker" type="b2602c69:ProjectViewProjectNode" />
+              <item name="transit-tracker" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="services" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="transit-tracker" type="b2602c69:ProjectViewProjectNode" />
+              <item name="transit-tracker" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="services" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="transit-tracker" type="b2602c69:ProjectViewProjectNode" />
+              <item name="transit-tracker" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="services" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="transit-tracker" type="b2602c69:ProjectViewProjectNode" />
+              <item name="transit-tracker" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="services" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="kotlin" type="462c0819:PsiDirectoryNode" />
-              <item name="transit" type="462c0819:PsiDirectoryNode" />
-              <item name="config" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="transit-tracker" type="b2602c69:ProjectViewProjectNode" />
               <item name="transit-tracker" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="api" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="services" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="kotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="services" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="transit-tracker" type="b2602c69:ProjectViewProjectNode" />
               <item name="transit-tracker" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="api" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="services" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
             </path>
             <path>
               <item name="transit-tracker" type="b2602c69:ProjectViewProjectNode" />
               <item name="transit-tracker" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="api" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="kotlin" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="transit-tracker" type="b2602c69:ProjectViewProjectNode" />
-              <item name="transit-tracker" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="api" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="kotlin" type="462c0819:PsiDirectoryNode" />
-              <item name="transit" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="transit-tracker" type="b2602c69:ProjectViewProjectNode" />
-              <item name="transit-tracker" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="api" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="transit-tracker" type="b2602c69:ProjectViewProjectNode" />
-              <item name="transit-tracker" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="client" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="transit-tracker" type="b2602c69:ProjectViewProjectNode" />
-              <item name="transit-tracker" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="client" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="transit-tracker" type="b2602c69:ProjectViewProjectNode" />
-              <item name="transit-tracker" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="client" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="transit-tracker" type="b2602c69:ProjectViewProjectNode" />
-              <item name="transit-tracker" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="domain" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-            </path>
-            <path>
-              <item name="transit-tracker" type="b2602c69:ProjectViewProjectNode" />
-              <item name="transit-tracker" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="domain" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="transit-tracker" type="b2602c69:ProjectViewProjectNode" />
-              <item name="transit-tracker" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="domain" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-            </path>
-            <path>
-              <item name="transit-tracker" type="b2602c69:ProjectViewProjectNode" />
-              <item name="transit-tracker" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="domain" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="kotlin" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="transit-tracker" type="b2602c69:ProjectViewProjectNode" />
-              <item name="transit-tracker" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="domain" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="kotlin" type="462c0819:PsiDirectoryNode" />
-              <item name="domain" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="transit-tracker" type="b2602c69:ProjectViewProjectNode" />
-              <item name="transit-tracker" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="domain" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="kotlin" type="462c0819:PsiDirectoryNode" />
-              <item name="domain" type="462c0819:PsiDirectoryNode" />
-              <item name="stubs" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="transit-tracker" type="b2602c69:ProjectViewProjectNode" />
-              <item name="transit-tracker" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="domain" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-            </path>
-            <path>
-              <item name="transit-tracker" type="b2602c69:ProjectViewProjectNode" />
-              <item name="transit-tracker" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="domain" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="services" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="kotlin" type="462c0819:PsiDirectoryNode" />
@@ -2131,146 +1728,20 @@
             <path>
               <item name="transit-tracker" type="b2602c69:ProjectViewProjectNode" />
               <item name="transit-tracker" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="domain" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="services" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="kotlin" type="462c0819:PsiDirectoryNode" />
-              <item name="domain" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="transit-tracker" type="b2602c69:ProjectViewProjectNode" />
-              <item name="transit-tracker" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="integrations" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-            </path>
-            <path>
-              <item name="transit-tracker" type="b2602c69:ProjectViewProjectNode" />
-              <item name="transit-tracker" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="integrations" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="transit-tracker" type="b2602c69:ProjectViewProjectNode" />
-              <item name="transit-tracker" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="integrations" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-            </path>
-            <path>
-              <item name="transit-tracker" type="b2602c69:ProjectViewProjectNode" />
-              <item name="transit-tracker" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="integrations" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="kotlin" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="transit-tracker" type="b2602c69:ProjectViewProjectNode" />
-              <item name="transit-tracker" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="integrations" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="kotlin" type="462c0819:PsiDirectoryNode" />
-              <item name="integrations" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="transit-tracker" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-            </path>
-            <path>
-              <item name="transit-tracker" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Gradle: com.graphql-java:graphql-java:11.0" type="70bed36:NamedLibraryElementNode" />
-            </path>
-            <path>
-              <item name="transit-tracker" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Gradle: com.graphql-java:graphql-java:11.0" type="70bed36:NamedLibraryElementNode" />
-              <item name="graphql-java-11.0.jar" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="transit-tracker" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Gradle: com.graphql-java:graphql-java:11.0" type="70bed36:NamedLibraryElementNode" />
-              <item name="graphql-java-11.0.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="graphql" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="transit-tracker" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Gradle: com.graphql-java:graphql-java:11.0" type="70bed36:NamedLibraryElementNode" />
-              <item name="graphql-java-11.0.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="graphql" type="462c0819:PsiDirectoryNode" />
-              <item name="schema" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="transit-tracker" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Gradle: io.rest-assured:spring-mock-mvc:3.0.7" type="70bed36:NamedLibraryElementNode" />
-            </path>
-            <path>
-              <item name="transit-tracker" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Gradle: io.rest-assured:spring-mock-mvc:3.0.7" type="70bed36:NamedLibraryElementNode" />
-              <item name="spring-mock-mvc-3.0.7.jar" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="transit-tracker" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Gradle: io.rest-assured:spring-mock-mvc:3.0.7" type="70bed36:NamedLibraryElementNode" />
-              <item name="spring-mock-mvc-3.0.7.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="mockmvc" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="transit-tracker" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Gradle: org.springframework:spring-test:5.0.9.RELEASE" type="70bed36:NamedLibraryElementNode" />
-            </path>
-            <path>
-              <item name="transit-tracker" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Gradle: org.springframework:spring-test:5.0.9.RELEASE" type="70bed36:NamedLibraryElementNode" />
-              <item name="spring-test-5.0.9.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="transit-tracker" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Gradle: org.springframework:spring-test:5.0.9.RELEASE" type="70bed36:NamedLibraryElementNode" />
-              <item name="spring-test-5.0.9.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="springframework" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="transit-tracker" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Gradle: org.springframework:spring-test:5.0.9.RELEASE" type="70bed36:NamedLibraryElementNode" />
-              <item name="spring-test-5.0.9.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="springframework" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="transit-tracker" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Gradle: org.springframework:spring-test:5.0.9.RELEASE" type="70bed36:NamedLibraryElementNode" />
-              <item name="spring-test-5.0.9.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="springframework" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="context" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="transit-tracker" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Gradle: org.springframework:spring-test:5.0.9.RELEASE" type="70bed36:NamedLibraryElementNode" />
-              <item name="spring-test-5.0.9.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="springframework" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="context" type="462c0819:PsiDirectoryNode" />
-              <item name="junit4" type="462c0819:PsiDirectoryNode" />
+              <item name="services" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="Scratches" />
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -2282,6 +1753,8 @@
     <property name="jsgraphql-schema-editor-notification" value="false" />
     <property name="settings.editor.selected.configurable" value="Settings.JavaScript" />
     <property name="com.intellij.lang.jsgraphql.ide.injection.JSGraphQLLanguageInjectionUtil.gql" value="apollo" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$2/Languages" value="TEXT&#10;GenericSQL" />
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///Users/pivotal/Library/Preferences/IntelliJIdea2017.3/scratches/scratch.txt" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -2300,7 +1773,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.GraphQLProviderTest.should increment a transit mode">
+  <component name="RunManager" selected="Gradle.GameTest">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="WIDTH" value="400" />
       <option name="HEIGHT" value="300" />
@@ -2321,6 +1794,44 @@
       <module name="" />
       <envs />
     </configuration>
+    <configuration name="GameTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/services" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;com.transit.services.GameTest&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":services:cleanTest" />
+            <option value=":services:test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+    </configuration>
+    <configuration name="GameTest.asdf" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/services" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;com.transit.services.GameTest.asdf&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":services:cleanTest" />
+            <option value=":services:test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+    </configuration>
     <configuration name="GetModesUseCaseTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -2333,31 +1844,6 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="com.transit.domain" />
       <option name="MAIN_CLASS_NAME" value="com.transit.domain.GetModesUseCaseTest" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-    </configuration>
-    <configuration name="GraphQLProviderTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.transit.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="api_test" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.transit" />
-      <option name="MAIN_CLASS_NAME" value="com.transit.GraphQLProviderTest" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -2409,31 +1895,6 @@
       <option name="PACKAGE_NAME" value="com.transit" />
       <option name="MAIN_CLASS_NAME" value="com.transit.GraphQLProviderTest" />
       <option name="METHOD_NAME" value="should increment a transit mode" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-    </configuration>
-    <configuration name="IntegrationTest.canGetLists" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.transit.integrations.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="integrations_test" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.transit.integrations" />
-      <option name="MAIN_CLASS_NAME" value="com.transit.integrations.IntegrationTest" />
-      <option name="METHOD_NAME" value="canGetLists" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -2596,19 +2057,19 @@
       <item index="2" class="java.lang.String" itemvalue="Spring Boot.PinelistApplication (1)" />
       <item index="3" class="java.lang.String" itemvalue="Spring Boot.PinelistApplication (2)" />
       <item index="4" class="java.lang.String" itemvalue="Spring Boot.TransitTrackerApplication" />
-      <item index="5" class="java.lang.String" itemvalue="JUnit.GraphQLProviderTest" />
-      <item index="6" class="java.lang.String" itemvalue="JUnit.GetModesUseCaseTest" />
-      <item index="7" class="java.lang.String" itemvalue="JUnit.IntegrationTest.canGetLists" />
-      <item index="8" class="java.lang.String" itemvalue="JUnit.GraphQLProviderTest.should add a transit mode" />
-      <item index="9" class="java.lang.String" itemvalue="JUnit.GraphQLProviderTest.should increment a transit mode" />
+      <item index="5" class="java.lang.String" itemvalue="JUnit.GetModesUseCaseTest" />
+      <item index="6" class="java.lang.String" itemvalue="JUnit.GraphQLProviderTest.should add a transit mode" />
+      <item index="7" class="java.lang.String" itemvalue="JUnit.GraphQLProviderTest.should increment a transit mode" />
+      <item index="8" class="java.lang.String" itemvalue="Gradle.GameTest.asdf" />
+      <item index="9" class="java.lang.String" itemvalue="Gradle.GameTest" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.GraphQLProviderTest.should increment a transit mode" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.GetModesUseCaseTest" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.GraphQLProviderTest.should add a transit mode" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.GraphQLProviderTest" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.IntegrationTest.canGetLists" />
+        <item index="0" class="java.lang.String" itemvalue="Gradle.GameTest" />
+        <item index="1" class="java.lang.String" itemvalue="Gradle.GameTest.asdf" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.GraphQLProviderTest.should increment a transit mode" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.GetModesUseCaseTest" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.GraphQLProviderTest.should add a transit mode" />
       </list>
     </recent_temporary>
   </component>
@@ -2636,46 +2097,48 @@
       <workItem from="1551210431540" duration="628000" />
       <workItem from="1551453809728" duration="702000" />
       <workItem from="1551467355264" duration="1003000" />
+      <workItem from="1552693934933" duration="894000" />
+      <workItem from="1553108581850" duration="5214000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="GraphQLProviderTest_should_increment_a_transit_mode - 2019.03.01 at 11h 40m 07s.xml">
-      <configuration name="GraphQLProviderTest.should increment a transit mode" configurationId="JUnit" />
+    <history-entry file="GameTest - 2019.03.20 at 15h 36m 36s.xml">
+      <configuration name="GameTest" configurationId="GradleRunConfiguration" />
     </history-entry>
-    <history-entry file="GraphQLProviderTest_should_increment_a_transit_mode - 2019.03.01 at 11h 43m 33s.xml">
-      <configuration name="GraphQLProviderTest.should increment a transit mode" configurationId="JUnit" />
+    <history-entry file="GameTest - 2019.03.20 at 15h 36m 57s.xml">
+      <configuration name="GameTest" configurationId="GradleRunConfiguration" />
     </history-entry>
-    <history-entry file="GraphQLProviderTest_should_increment_a_transit_mode - 2019.03.01 at 11h 44m 44s.xml">
-      <configuration name="GraphQLProviderTest.should increment a transit mode" configurationId="JUnit" />
+    <history-entry file="GameTest - 2019.03.20 at 15h 47m 05s.xml">
+      <configuration name="GameTest" configurationId="GradleRunConfiguration" />
     </history-entry>
-    <history-entry file="GraphQLProviderTest_should_increment_a_transit_mode - 2019.03.01 at 11h 45m 53s.xml">
-      <configuration name="GraphQLProviderTest.should increment a transit mode" configurationId="JUnit" />
+    <history-entry file="GameTest - 2019.03.20 at 15h 53m 45s.xml">
+      <configuration name="GameTest" configurationId="GradleRunConfiguration" />
     </history-entry>
-    <history-entry file="GraphQLProviderTest_should_increment_a_transit_mode - 2019.03.01 at 11h 47m 04s.xml">
-      <configuration name="GraphQLProviderTest.should increment a transit mode" configurationId="JUnit" />
+    <history-entry file="GameTest - 2019.03.20 at 15h 54m 12s.xml">
+      <configuration name="GameTest" configurationId="GradleRunConfiguration" />
     </history-entry>
-    <history-entry file="GraphQLProviderTest_should_increment_a_transit_mode - 2019.03.01 at 11h 47m 42s.xml">
-      <configuration name="GraphQLProviderTest.should increment a transit mode" configurationId="JUnit" />
+    <history-entry file="GameTest - 2019.03.20 at 15h 54m 39s.xml">
+      <configuration name="GameTest" configurationId="GradleRunConfiguration" />
     </history-entry>
-    <history-entry file="GraphQLProviderTest_should_increment_a_transit_mode - 2019.03.01 at 12h 02m 33s.xml">
-      <configuration name="GraphQLProviderTest.should increment a transit mode" configurationId="JUnit" />
+    <history-entry file="GameTest - 2019.03.20 at 15h 55m 01s.xml">
+      <configuration name="GameTest" configurationId="GradleRunConfiguration" />
     </history-entry>
-    <history-entry file="GraphQLProviderTest_should_increment_a_transit_mode - 2019.03.01 at 14h 00m 50s.xml">
-      <configuration name="GraphQLProviderTest.should increment a transit mode" configurationId="JUnit" />
+    <history-entry file="GameTest - 2019.03.20 at 16h 08m 23s.xml">
+      <configuration name="GameTest" configurationId="GradleRunConfiguration" />
     </history-entry>
-    <history-entry file="GraphQLProviderTest_should_increment_a_transit_mode - 2019.03.01 at 14h 01m 57s.xml">
-      <configuration name="GraphQLProviderTest.should increment a transit mode" configurationId="JUnit" />
+    <history-entry file="GameTest - 2019.03.20 at 16h 10m 44s.xml">
+      <configuration name="GameTest" configurationId="GradleRunConfiguration" />
     </history-entry>
-    <history-entry file="GraphQLProviderTest_should_increment_a_transit_mode - 2019.03.01 at 14h 02m 36s.xml">
-      <configuration name="GraphQLProviderTest.should increment a transit mode" configurationId="JUnit" />
+    <history-entry file="GameTest - 2019.03.20 at 16h 13m 05s.xml">
+      <configuration name="GameTest" configurationId="GradleRunConfiguration" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="78156000" />
+    <option name="totallyTimeSpent" value="84767000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1440" y="-298" width="2560" height="1413" extended-state="6" />
+    <frame x="0" y="23" width="2560" height="1413" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -2693,12 +2156,12 @@
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="GraphQL" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19275251" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27476883" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="GraphQL" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.1919815" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27447957" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19457735" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1471292" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19218501" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -2728,16 +2191,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/client/src/feature-tests/stub-db.sh" />
-    <entry file="file://$PROJECT_DIR$/client/src/feature-tests/displayTransitModesFeatureTest.js" />
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.graphql-java/graphql-java/11.0/817d1826a4dc2d5780fd21310da9e16b3fadc2/graphql-java-11.0-sources.jar!/graphql/GraphQL.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2611">
-          <caret line="81" column="13" lean-forward="false" selection-start-line="81" selection-start-column="13" selection-end-line="81" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/api/src/main/kotlin/com/transit/controllers/ListController.kt" />
     <entry file="file://$PROJECT_DIR$/api/src/test/kotlin/com/transit/controllers/ListControllerTest.kt" />
     <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-test/5.0.9.RELEASE/e1e6cff03e69e4db489d723c9a1c91afe8e0c637/spring-test-5.0.9.RELEASE-sources.jar!/org/springframework/test/context/junit4/SpringJUnit4ClassRunner.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -2811,7 +2264,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="570">
           <caret line="36" column="1" lean-forward="false" selection-start-line="36" selection-start-column="1" selection-end-line="36" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2838,8 +2290,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/domain/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="1" lean-forward="false" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+        <state relative-caret-position="133">
+          <caret line="7" column="53" lean-forward="false" selection-start-line="5" selection-start-column="4" selection-end-line="7" selection-end-column="53" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -2860,18 +2313,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" column="5" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/client/src/App.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="304">
           <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2879,7 +2324,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="76">
           <caret line="4" column="41" lean-forward="false" selection-start-line="4" selection-start-column="41" selection-end-line="4" selection-end-column="41" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2893,8 +2337,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/domain/src/main/kotlin/com/transit/domain/AddModeUseCase.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="41" lean-forward="true" selection-start-line="4" selection-start-column="41" selection-end-line="4" selection-end-column="41" />
+        <state relative-caret-position="95">
+          <caret line="5" column="5" lean-forward="false" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
           <folding />
         </state>
       </provider>
@@ -2903,7 +2347,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
           <caret line="17" column="61" lean-forward="false" selection-start-line="17" selection-start-column="61" selection-end-line="17" selection-end-column="61" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2911,15 +2354,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
           <caret line="19" column="1" lean-forward="false" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/api/src/main/kotlin/com/transit/GraphQLProvider.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="895">
-          <caret line="93" column="5" lean-forward="false" selection-start-line="93" selection-start-column="5" selection-end-line="93" selection-end-column="5" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2935,7 +2369,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="133">
           <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2943,7 +2376,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="76">
           <caret line="5" column="35" lean-forward="false" selection-start-line="5" selection-start-column="35" selection-end-line="5" selection-end-column="35" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2951,17 +2383,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
           <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/integrations/src/main/kotlin/com/transit/integrations/DefaultModesRepository.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="38" lean-forward="false" selection-start-line="6" selection-start-column="38" selection-end-line="6" selection-end-column="38" />
-          <folding>
-            <element signature="e#34#113#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -2969,7 +2390,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="437">
           <caret line="29" column="1" lean-forward="true" selection-start-line="29" selection-start-column="1" selection-end-line="29" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2977,7 +2397,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="57">
           <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2985,15 +2404,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="10" lean-forward="false" selection-start-line="0" selection-start-column="10" selection-end-line="0" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/api/src/test/resources/getModes.graphql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="5" lean-forward="false" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -3001,15 +2411,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
           <caret line="5" column="5" lean-forward="false" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/api/src/main/resources/schema.graphqls">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -3017,16 +2418,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="437">
           <caret line="26" column="14" lean-forward="true" selection-start-line="26" selection-start-column="14" selection-end-line="26" selection-end-column="14" />
-          <folding>
-            <marker date="1551467236000" expanded="true" signature="178:269" ph="query...{&#10;        modes {&#10;            name&#10;            counter&#10;        }&#10;    }" />
-            <marker date="1551467236000" expanded="true" signature="184:269" ph="{...}" />
-            <marker date="1551467236000" expanded="true" signature="194:199" ph="modes...modes" />
-            <marker date="1551467236000" expanded="true" signature="194:263" ph="modes...{&#10;            name&#10;            counter&#10;        }" />
-            <marker date="1551467236000" expanded="true" signature="200:263" ph="{...}" />
-            <marker date="1551467236000" expanded="true" signature="214:218" ph="name...name" />
-            <marker date="1551467236000" expanded="true" signature="231:238" ph="counter...counter" />
-            <marker date="1551467236000" expanded="true" signature="251:253" ph="id...id" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -3034,29 +2425,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="726">
           <caret line="52" column="26" lean-forward="true" selection-start-line="52" selection-start-column="26" selection-end-line="52" selection-end-column="26" />
-          <folding>
-            <marker date="1551468249000" expanded="true" signature="139:282" ph="mutation...{&#10;         addMode(name: $name) {&#10;             name&#10;             counter&#10;         }&#10;     }" />
-            <marker date="1551468249000" expanded="true" signature="148:159" ph="addModeFunc...addModeFunc" />
-            <marker date="1551468249000" expanded="true" signature="159:175" ph="(...)" />
-            <marker date="1551468249000" expanded="true" signature="167:173" ph="String...String" />
-            <marker date="1551468249000" expanded="true" signature="176:282" ph="{...}" />
-            <marker date="1551468249000" expanded="true" signature="187:194" ph="addMode...addMode" />
-            <marker date="1551468249000" expanded="true" signature="187:275" ph="addMode...{&#10;             name&#10;             counter&#10;         }" />
-            <marker date="1551468249000" expanded="true" signature="194:207" ph="(...)" />
-            <marker date="1551468249000" expanded="true" signature="195:199" ph="name...name" />
-            <marker date="1551468249000" expanded="true" signature="208:275" ph="{...}" />
-            <marker date="1551468249000" expanded="true" signature="223:227" ph="name...name" />
-            <marker date="1551468249000" expanded="true" signature="241:248" ph="counter...counter" />
-            <marker date="1551468249000" expanded="true" signature="262:264" ph="id...id" />
-            <marker date="1551468249000" expanded="true" signature="313:404" ph="query...{&#10;        modes {&#10;            name&#10;            counter&#10;        }&#10;    }" />
-            <marker date="1551468249000" expanded="true" signature="319:404" ph="{...}" />
-            <marker date="1551468249000" expanded="true" signature="329:334" ph="modes...modes" />
-            <marker date="1551468249000" expanded="true" signature="329:398" ph="modes...{&#10;            name&#10;            counter&#10;        }" />
-            <marker date="1551468249000" expanded="true" signature="335:398" ph="{...}" />
-            <marker date="1551468249000" expanded="true" signature="349:353" ph="name...name" />
-            <marker date="1551468249000" expanded="true" signature="366:373" ph="counter...counter" />
-            <marker date="1551468249000" expanded="true" signature="386:388" ph="id...id" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -3064,29 +2432,80 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="190">
           <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/integrations/src/main/kotlin/com/transit/integrations/DefaultModesRepository.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="18" lean-forward="false" selection-start-line="0" selection-start-column="18" selection-end-line="0" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/src/main/resources/schema.graphqls">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="1" lean-forward="false" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/src/test/resources/getModes.graphql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="11" lean-forward="false" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/src/main/kotlin/com/transit/GraphQLProvider.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="87">
+          <caret line="56" column="17" lean-forward="false" selection-start-line="56" selection-start-column="17" selection-end-line="56" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="2" lean-forward="false" selection-start-line="1" selection-start-column="2" selection-end-line="1" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/services/src/main/kotlin/com/transit/services/Game.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="30" lean-forward="false" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/services/src/test/kotlin/com/transit/services/GameTest.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="455">
+          <caret line="43" column="0" lean-forward="false" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
           <folding>
-            <marker date="1551468309000" expanded="true" signature="142:282" ph="mutation...{&#10;        incrementMode(id: $id) {&#10;            name&#10;            counter&#10;            id&#10;        }&#10;    }" />
-            <marker date="1551468309000" expanded="true" signature="151:168" ph="incrementModeFunc...incrementModeFunc" />
-            <marker date="1551468309000" expanded="true" signature="168:179" ph="(...)" />
-            <marker date="1551468309000" expanded="true" signature="174:177" ph="Int...Int" />
-            <marker date="1551468309000" expanded="true" signature="180:282" ph="{...}" />
-            <marker date="1551468309000" expanded="true" signature="190:203" ph="incrementMode...incrementMode" />
-            <marker date="1551468309000" expanded="true" signature="190:276" ph="incrementMode...{&#10;            name&#10;            counter&#10;            id&#10;        }" />
-            <marker date="1551468309000" expanded="true" signature="203:212" ph="(...)" />
-            <marker date="1551468309000" expanded="true" signature="204:206" ph="id...id" />
-            <marker date="1551468309000" expanded="true" signature="213:276" ph="{...}" />
-            <marker date="1551468309000" expanded="true" signature="227:231" ph="name...name" />
-            <marker date="1551468309000" expanded="true" signature="244:251" ph="counter...counter" />
-            <marker date="1551468309000" expanded="true" signature="264:266" ph="id...id" />
-            <marker date="1551468309000" expanded="true" signature="312:403" ph="query...{&#10;        modes {&#10;            name&#10;            counter&#10;            id&#10;        }&#10;    }" />
-            <marker date="1551468309000" expanded="true" signature="318:403" ph="{...}" />
-            <marker date="1551468309000" expanded="true" signature="328:333" ph="modes...modes" />
-            <marker date="1551468309000" expanded="true" signature="328:397" ph="modes...{&#10;            name&#10;            counter&#10;            id&#10;        }" />
-            <marker date="1551468309000" expanded="true" signature="334:397" ph="{...}" />
-            <marker date="1551468309000" expanded="true" signature="348:352" ph="name...name" />
-            <marker date="1551468309000" expanded="true" signature="365:372" ph="counter...counter" />
-            <marker date="1551468309000" expanded="true" signature="385:387" ph="id...id" />
+            <element signature="e#30#101#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="8" lean-forward="false" selection-start-line="1" selection-start-column="8" selection-end-line="1" selection-end-column="8" />
+          <folding />
         </state>
       </provider>
     </entry>
